@@ -1,30 +1,201 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "531f",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "dff1",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "49c9",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "f457",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "b3a6",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "1fa7",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "2baa",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "fa16",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "622d",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "232f",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "5437",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "c339",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "375f",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "9a37",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "78fe",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "0c8c",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "3bca",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "adc8",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "73ee",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "5a42",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "eac0",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "50e8",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "4e61",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "5b96",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "bd79",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "acf8",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "da6c",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "7895",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "05a1",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "6ec3"
+    },
+    {
+      "id": "8205"
+    },
+    {
+      "id": "ad1f",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "078e",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    },
+    {
+      "id": "1c57",
+      "name": "Steve",
+      "email": "Steve@steve.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
