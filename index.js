@@ -1,7 +1,7 @@
 
 let data = {
     name: 'Steve',
-    email: 'Steve@steve.com'
+    email: 'steve@steve.com'
 }
 
 let dataObject = {
@@ -14,21 +14,18 @@ let dataObject = {
 }
 
 function submitData () {
-    let element = document.createElement('h1')
-    document.body.append(element)
+    let element = document.querySelector('h1')
 
-    let element2 = document.createElement('h2')
-    document.body.append(element2)
+    let element2 = document.querySelector('h2')
 
-    fetch('http://localhost:3000/users', dataObject)
+    return fetch('http://localhost:3000/users', dataObject)
     .then(response => response.json())
-    .then(object => element.innerText = object.id)
+    .then(object => element.textContent = object.id)
     .catch(function(error) {
         let errorObject = {
             message: error.message
         }
-        element2.innerText = errorObject.message
-        
+        element2.textContent = errorObject.message  
     })
 }
 
